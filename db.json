@@ -1,0 +1,56 @@
+{
+  "todos": [
+    {
+      "name": "Shit",
+      "status": true
+    },
+    {
+      "name": "Assignment",
+      "status": false
+    },
+    {
+      "name": "Fuck",
+      "status": false
+    }
+  ],
+  "emotions": [
+    {
+      "question": "How u duin?",
+      "options": [
+        {
+          "name": "Sad",
+          "rating": 0
+        },
+        {
+          "name": "Amgry",
+          "rating": 0
+        },
+        {
+          "name": "Calm",
+          "rating": 0
+        },
+        {
+          "name": "Depressed",
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "question": "How u fuckin?",
+      "options": [
+        {
+          "name": "Breakin da bed",
+          "rating": 0
+        },
+        {
+          "name": "KCPD",
+          "rating": 0
+        },
+        {
+          "name": "TADE",
+          "rating": 0
+        }
+      ]
+    }
+  ]
+}

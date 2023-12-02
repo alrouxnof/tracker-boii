@@ -1,0 +1,44 @@
+[[todos]]
+name = "Shit"
+status = true
+
+[[todos]]
+name = "Assignment"
+status = false
+
+[[todos]]
+name = "Fuck"
+status = false
+
+[[emotions]]
+question = "How u duin?"
+[[emotions.option]]
+name = "Sad"
+rating = 0
+[[emotions.option]]
+name = "Amgry"
+rating = 0
+[[emotions.option]]
+name = "Calm"
+rating = 0
+[[emotions.option]]
+name = "Depressed"
+rating = 0
+
+[[emotions]]
+question = "How u fuckin?"
+[[emotions.option]]
+name = "Breakin da bed"
+rating = 0
+[[emotions.option]]
+name = "KCPD"
+rating = 0
+[[emotions.option]]
+name = "TADE"
+rating = 0
+
+# todos = []
+# todo_statuses = []
+
+# emotion_questions = []
+# emotion_question_options = []
