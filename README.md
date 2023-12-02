@@ -1,2 +1,3 @@
-# tracker-boi
- performance, modd and emotions tracker
+# Tracker Boi
+
+Performance, modd and emotions tracker.
